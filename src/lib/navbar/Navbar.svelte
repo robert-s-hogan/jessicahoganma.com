@@ -5,10 +5,13 @@
 	export let sidebar = false
 </script>
 
-<header class="flex justify-between p-4 items-center text-white">
-	<a href="/"><p class="text-white">JH</p></a>
-	<nav class="flex ">
-		<Hamburger bind:open={sidebar}/>
-	</nav>
-	<Menu/>
+<header class="max-w-6xl mx-auto px-6">
+	<div class="flex justify-between p-4 items-center text-white">
+
+		<a href="/"><p class="text-white">JH</p></a>
+		<nav class="flex ">
+			<Hamburger bind:open={sidebar}/>
+		</nav>
+		<Menu/>
+	</div>
 </header>
