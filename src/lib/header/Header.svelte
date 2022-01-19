@@ -42,6 +42,6 @@
 		flex: 1;
 		text-align: center;
 		color: var(--tertiary-color);
-		height: 70vh;
+		height: 100%;
 	}
 </style>

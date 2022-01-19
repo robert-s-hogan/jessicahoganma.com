@@ -15,3 +15,9 @@
 		<Menu/>
 	</div>
 </header>
+
+<style>
+	header {
+		height: 10vh;
+	}
+</style>
