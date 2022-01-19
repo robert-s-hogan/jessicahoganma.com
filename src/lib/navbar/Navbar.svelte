@@ -6,9 +6,9 @@
 </script>
 
 <header class="max-w-6xl mx-auto px-6">
-	<div class="flex justify-between p-4 items-center text-white">
+	<div class="flex justify-between p-4 items-center text-black">
 
-		<a href="/"><p class="text-white">JH</p></a>
+		<a href="/"><p class="text-black text-2xl">JH</p></a>
 		<nav class="flex ">
 			<Hamburger bind:open={sidebar}/>
 		</nav>

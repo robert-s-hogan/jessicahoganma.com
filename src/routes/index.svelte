@@ -19,7 +19,7 @@
 
 <Header />
 
-<Quote />
+<!-- <Quote /> -->
 
 <Services />
 
