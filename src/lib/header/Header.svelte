@@ -2,7 +2,7 @@
 	import Navbar from '$lib/navbar/Navbar.svelte';
 	import Sidebar from '$lib/sidebar/Sidebar.svelte';
 	import Hero from '$lib/img/hero_wavelength.svg';
-    import Profile from '$lib/img/linkedin_profile.jpeg';
+    // import Profile from '$lib/img/linkedin_profile.jpeg';
 	let open = false;
 </script>
 
@@ -10,13 +10,13 @@
 	<Sidebar bind:open/>
 	<Navbar bind:sidebar={open}/>
 	<div class="hero-text">
-		<div class="mx-auto w-1/2 md:w-1/6 pb-4 ">
+		<!-- <div class="mx-auto w-1/2 md:w-1/6 pb-4 ">
 			<img src={Profile} alt="" class="rounded-lg" />
-		</div>
+		</div> -->
 		<h1 class="font-bold text-4xl">
 			Hi, I'm Jessica.<br />
 			<span class=" text-transparent bg-clip-text bg-gradient-to-br from-blue-900 via-blue-400 to-cyan-300">
-				expert Data Analyst
+				Senior Data Analyst
 			</span>
 		</h1>
 		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help others to make the right decisions, data-driven decisions</p>
