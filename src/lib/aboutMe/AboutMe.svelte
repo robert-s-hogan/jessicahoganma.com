@@ -2,7 +2,9 @@
     import Profile from '$lib/img/linkedin_profile.jpeg';
 </script>
 
-<section id="about" class="w-full mx-auto py-12 pb-24 bg-blue-100">
+<section id="about" class="py-12 pb-24 bg-blue-100">
+	<div class="max-w-6xl mx-auto px-6">
+
     <div class="px-6">
         <h2 class="uppercase border-b-2 w-1/4">About Me</h2>
         <p class="py-4">Hi, my name is Claudia and I work remotely as a <span class="font-bold">freelance data analyst/scientist</span>. I hold a Bachelor’s and Master’s degree in science (Business Analytics, VU University Amsterdam).</p>

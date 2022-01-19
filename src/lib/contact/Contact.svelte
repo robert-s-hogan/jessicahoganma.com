@@ -1,4 +1,6 @@
-<section id="contact" class="w-full mx-auto py-12 pb-24 bg-white">
+<section id="contact" class="py-12 pb-24 bg-white">
+    <div class="max-w-6xl mx-auto px-6">
+
     <div class="px-6">
         <h2 class="uppercase border-b-2 w-1/4">Contact</h2>
         <p class="py-4"><span class="font-bold">Claudia</span><br /><a href="mailto:jessicahoganma@gmail.com">Email Me</a></p>
@@ -20,4 +22,5 @@
         </ul>
         <p class="py-4">Rates are excluding VAT.</p>
     </div>
+</div>
 </section>

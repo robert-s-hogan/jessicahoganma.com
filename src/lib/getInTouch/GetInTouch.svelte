@@ -1,5 +1,5 @@
 <section class="pb-8 text-white text-center -mt-16">
-	<div class="w-5/6 mx-auto bg-indigo-500 text-white rounded-lg shadow-lg overflow-hidden">
+	<div class="w-5/6 md:w-3/5 mx-auto bg-indigo-500 text-white rounded-lg shadow-lg overflow-hidden">
 		<div class="flex flex-col md:flex-row md:space-x-6 w-3/4 mx-auto justify-center py-12">
 				<h2 class="text-white text-2xl font-bold md:w-1/4">
 					Start a project
