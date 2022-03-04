@@ -13,7 +13,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Senior Data Analyst - Jessica Hogan M.A.	</title>
 </svelte:head>
 
 
