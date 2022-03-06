@@ -1,7 +1,14 @@
 
     <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+      <!-- EMAIL -->
+      <a class="text-gray-500" href="mailto:jessicahoganma@gmail.com" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+        </svg>
+      </a>
+
       <!-- FACEBOOK -->
-      <a class="text-gray-500" href="https://www.facebook.com/jessicahoganma" target="_blank">
+      <a class="text-gray-500 ml-3" href="https://www.facebook.com/jessicahoganma" target="_blank">
         <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
           <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
         </svg>
