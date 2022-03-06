@@ -16,7 +16,7 @@
 		<h1 class="font-bold text-4xl">
 			Hi, I'm Jessica.<br />
 			<span class=" text-transparent bg-clip-text bg-gradient-to-br from-blue-900 via-blue-400 to-cyan-300">
-				Senior Data Analyst
+				Senior Data Scientist
 			</span>
 		</h1>
 		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help others to make the right decisions, data-driven decisions</p>
