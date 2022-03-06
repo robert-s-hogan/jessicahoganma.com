@@ -1,6 +1,10 @@
 
 <section id="services" class="text-gray-600 body-font py-8">
 	<div class="max-w-6xl mx-auto py-24">
+		<div class="px-4 mb-8">
+			<h2 class="text-3xl font-bold text-gray-800 mt-4">Services</h2>
+			<p>As a freelance Data Scientist and Data Analyst , I translate data into actionable insights. I use Python, SQL and R while utilizing Tableau for data visualization.</p>
+		</div>
 	  <div class="flex flex-wrap w-full">
 	  <div class="grid grid-cols-1 md:grid-cols-3 gap-x-4 gap-y-1 -m-4">
 

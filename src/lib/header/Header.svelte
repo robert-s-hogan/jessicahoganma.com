@@ -16,10 +16,12 @@
 		<h1 class="font-bold text-4xl">
 			Hi, I'm Jessica.<br />
 			<span class=" text-transparent bg-clip-text bg-gradient-to-br from-blue-900 via-blue-400 to-cyan-300">
-				Senior Data Scientist
+				Data Scientist and Data Analyst
+
 			</span>
 		</h1>
-		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help others to make the right decisions, data-driven decisions</p>
+		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help you make the best data-driven decisions
+		</p>
 		<div class="my-4 flex flex-col justify-center md:flex-row md:space-between">
 			<button class="bg-blue-600 hover:bg-blue-700 px-8 py-2 rounded-lg text-lg text-white">Contact me</button>
 			<a href="#/portfolio" class="hover:text-black px-8 py-2 rounded-lg hover:no-underline pt-4 md:pt-4">
