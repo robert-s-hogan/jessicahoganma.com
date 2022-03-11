@@ -20,7 +20,7 @@
 
 			</span>
 		</h1>
-		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help you make the best data-driven decisions
+		<p class="text-gray-700 text-lg py-2 w-4/5">I want to help you make the best data-driven decisions and translate data into actionable insights.
 		</p>
 		<div class="my-4 flex flex-col justify-center md:flex-row md:space-between">
 			<button class="bg-orange hover:opacity-80 px-8 py-2 rounded-lg text-lg text-white">Contact me</button>
