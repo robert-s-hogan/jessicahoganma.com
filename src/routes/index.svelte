@@ -68,13 +68,13 @@
 
 <AboutMe />
 
-<section class="pb-8 text-white text-center -mt-16">
-	<div class="w-11/12 md:w-4/5 mx-auto bg-orange text-white rounded-lg shadow-lg overflow-hidden">
-		<div class="flex flex-col md:flex-row md:items-center md:space-x-6 w-3/4 mx-auto justify-center py-8">
-				<h2 class="text-white text-2xl font-semibold md:w-1/4">
+<section class="max-w-6xl mx-auto pb-8 text-white text-center -mt-16">
+	<div class="w-11/12 lg:w-full mx-auto bg-orange text-white rounded-lg shadow-lg overflow-hidden">
+		<div class="flex flex-col md:flex-row md:items-center md:space-x-6 w-11/12 lg:w-3/4 mx-auto justify-center py-8">
+				<h2 class="text-white text-2xl font-semibold">
 					Start a project
 				</h2>
-				<p class="mt-2 text-white md:flex-auto md:w-1/2">
+				<p class="mt-2 text-white md:flex-auto">
 					Interested in working together? <span class="md:block"></span>We should queue up a
 					chat. I’ll buy the coffee.
 				</p>
