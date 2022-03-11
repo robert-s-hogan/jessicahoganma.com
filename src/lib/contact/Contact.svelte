@@ -3,7 +3,7 @@
 
     <div class="px-6">
         <h2 class="uppercase border-b-2 w-1/4">Contact</h2>
-        <p class="py-4"><span class="font-bold">Claudia</span><br /><a href="mailto:jessicahoganma@gmail.com">Email Me</a></p>
+        <p class="py-4"><span class="font-semibold">Claudia</span><br /><a href="mailto:jessicahoganma@gmail.com">Email Me</a></p>
         <p class="py-4">As a data expert, I know exactly how you can use data optimally within your business. Based on your objectives, we will make a plan to reach the right insight.</p>
         <p class="py-4">I am available for</p>
         <ul class="py-4 list-disc pl-12">
