@@ -12,9 +12,7 @@
                             <h2 class="text-3xl font-semibold text-gray-800">Who I am</h2>
     
                             <p class="text-gray-500 my-5 text-justify">
-                                My name is Jessica and I work remotely as a freelance Data Scientist/Data Analyst. I have a bachelor’s and master’s degree and over 6 years experience providing actionable insights.
-I have a diverse background working in both public and private sectors from research to marketing which gives me a unique eye in which to approach your data-driven questions.
-
+                                I am a Data Scientist and Data Analyst based in Sonoma County, California. I have a master’s degree and over five years experience providing actionable insights. I have a diverse background working in both public and private sectors from research to marketing which gives me a unique eye in which to approach your data-driven questions.
                             </p>
 
                             <p class="text-gray-500 mt-3">I look forward to hearing about how I can help you solve your data questions!

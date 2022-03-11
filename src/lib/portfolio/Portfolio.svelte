@@ -4,7 +4,7 @@
 
 <section id="portfolio" class="w-full max-w-6xl px-6 mx-auto py-8 bg-sky-100">
         <h2 class="text-3xl font-semibold text-gray-800 mt-4">Projects</h2>
-        <p>As a freelance Data Scientist and Data Analyst, I translate data into actionable insights. I have experience with SQL, Excel, reporting, dashboards and statistics.</p>
+        <p>As a Data Scientist and Data Analyst, I translate data into actionable insights. I have experience with SQL, Excel, reporting, dashboards and statistics.</p>
 
 	<div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-8">
 
