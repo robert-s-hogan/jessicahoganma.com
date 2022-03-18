@@ -29,11 +29,6 @@
 	<title>Data Scientist and Data Analyst - Jessica Hogan M.A.	</title>
 	<meta name="description" content="I want to help you make the best data-driven decisions and translate data into actionable insights. As a Data Scientist and Data Analyst, I translate data into actionable insights. I have experience with SQL, Excel, reporting, dashboards and statistics.Jessica Hogan M.A.">
 </svelte:head>
-Hi, I'm Jessica.
-Data Scientist and Data Analyst
-I want to help you make the best data-driven decisions and translate data into actionable insights.
-
-
 <!-- <Quote /> -->
 
 <Portfolio />
