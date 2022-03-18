@@ -3,7 +3,7 @@
     import Social from '$lib/social/Social.svelte';
 </script>
 
-<section id="about" class="pb-24">
+<section id="who-i-am" class="pb-24">
 	<div class="max-w-6xl mx-auto px-6">
             <section class="bg-white">
                 <div class="container py-8 mx-auto">

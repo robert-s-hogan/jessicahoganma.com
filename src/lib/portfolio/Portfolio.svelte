@@ -2,7 +2,7 @@
     import Profile from '$lib/img/linkedin_profile.jpeg';
 </script>
 
-<section id="portfolio" class="w-full max-w-6xl px-6 mx-auto py-8 bg-sky-100">
+<section id="projects" class="w-full max-w-6xl px-6 mx-auto py-8 bg-sky-100">
         <h2 class="text-3xl font-semibold text-gray-800 mt-4">Projects</h2>
         <p>As a Data Scientist and Data Analyst, I translate data into actionable insights. I have experience with SQL, Excel, reporting, dashboards and statistics.</p>
 
