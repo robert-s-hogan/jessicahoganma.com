@@ -10,7 +10,8 @@ module.exports = {
 			mint: '#BEE3DB',
 			orange: '#E07A5F',
 			peach: '#FFD6BA',
-			black: '#160C09'
+			black: '#160C09',
+			offWhite: '#f4f4f4'
 		}
 	}
 };
